@@ -1,1 +1,3 @@
-let miles = a + b 
+function cutie(a,b){
+  return a + b
+}
